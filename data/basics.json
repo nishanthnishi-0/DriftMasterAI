@@ -1,0 +1,18 @@
+[
+    {
+        "question": "what is drifting",
+        "answer": "Drifting is a driving technique where the rear wheels lose traction while the driver maintains directional control."
+    },
+    {
+        "question": "what is oversteer",
+        "answer": "Oversteer occurs when the rear tires lose grip causing the rear of the car to slide outward."
+    },
+    {
+        "question": "what is understeer",
+        "answer": "Understeer occurs when the front tires lose grip causing the vehicle to turn less than intended."
+    },
+    {
+        "question": "what is counter steering",
+        "answer": "Counter steering is turning the wheel opposite the direction of the slide to maintain control."
+    }
+]

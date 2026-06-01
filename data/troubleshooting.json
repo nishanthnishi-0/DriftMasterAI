@@ -1,0 +1,14 @@
+[
+    {
+        "question": "why cant i drift",
+        "answer": "Common causes include low speed, insufficient power, excessive tire grip, poor weight transfer or lack of throttle control."
+    },
+    {
+        "question": "why do i spin out",
+        "answer": "Spinning out is often caused by excessive steering angle, too much throttle or late counter steering."
+    },
+    {
+        "question": "car straightens during drift",
+        "answer": "This usually indicates insufficient throttle, low speed or excessive rear grip."
+    }
+]
